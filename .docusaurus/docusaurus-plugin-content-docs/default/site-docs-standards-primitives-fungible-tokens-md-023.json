@@ -1,0 +1,27 @@
+{
+  "id": "standards-primitives/fungible-tokens",
+  "title": "Fungible Tokens",
+  "description": "ERC-20 on Ten",
+  "source": "@site/docs/standards-primitives/fungible-tokens.md",
+  "sourceDirName": "standards-primitives",
+  "slug": "/standards-primitives/fungible-tokens",
+  "permalink": "/docs/standards-primitives/fungible-tokens",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/standards-primitives/fungible-tokens.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standards & Primitives",
+    "permalink": "/docs/category/standards--primitives"
+  },
+  "next": {
+    "title": "Random Numbers",
+    "permalink": "/docs/standards-primitives/random-numbers"
+  }
+}

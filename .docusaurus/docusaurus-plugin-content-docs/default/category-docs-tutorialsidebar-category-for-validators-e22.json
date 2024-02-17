@@ -1,0 +1,15 @@
+{
+  "title": "For Validators",
+  "slug": "/category/for-validators",
+  "permalink": "/docs/category/for-validators",
+  "navigation": {
+    "previous": {
+      "title": "Develop & Deploy dApp",
+      "permalink": "/docs/getting-started/for-developers/develop-deploy-dapp"
+    },
+    "next": {
+      "title": "Running a node",
+      "permalink": "/docs/getting-started/for-validators/running-a-node"
+    }
+  }
+}

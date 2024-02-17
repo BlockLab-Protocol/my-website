@@ -1,0 +1,23 @@
+{
+  "id": "testnet/faq",
+  "title": "Testnet FAQ",
+  "description": "What is the Ten testnet?",
+  "source": "@site/docs/testnet/faq.md",
+  "sourceDirName": "testnet",
+  "slug": "/testnet/faq",
+  "permalink": "/docs/testnet/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/testnet/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Running a node",
+    "permalink": "/docs/testnet/for-validators/running-a-node"
+  }
+}

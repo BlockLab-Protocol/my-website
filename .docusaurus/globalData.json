@@ -1,0 +1,273 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "introduction/overview",
+          "docs": [
+            {
+              "id": "api-reference/debug-apis",
+              "path": "/docs/api-reference/debug-apis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-reference/json-rpc-apis",
+              "path": "/docs/api-reference/json-rpc-apis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api-reference/sensitive-apis",
+              "path": "/docs/api-reference/sensitive-apis",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/consensus",
+              "path": "/docs/architecture/consensus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/design",
+              "path": "/docs/architecture/design",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/governance",
+              "path": "/docs/architecture/governance",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/interaction-with-ethereum",
+              "path": "/docs/architecture/interaction-with-ethereum",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "architecture/system-components",
+              "path": "/docs/architecture/system-components",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-developers/develop-deploy-dapp",
+              "path": "/docs/getting-started/for-developers/develop-deploy-dapp",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-developers/explore-contracts-in-ten",
+              "path": "/docs/getting-started/for-developers/explore-contracts-in-ten",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-developers/setup-dev-env",
+              "path": "/docs/getting-started/for-developers/setup-dev-env",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-users/get-tokens",
+              "path": "/docs/getting-started/for-users/get-tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-users/setup-you-wallet",
+              "path": "/docs/getting-started/for-users/setup-you-wallet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "getting-started/for-validators/running-a-node",
+              "path": "/docs/getting-started/for-validators/running-a-node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/developer-quickstart",
+              "path": "/docs/introduction/developer-quickstart",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/features",
+              "path": "/docs/introduction/features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/overview",
+              "path": "/docs/introduction/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/technology",
+              "path": "/docs/introduction/technology",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "standards-primitives/fungible-tokens",
+              "path": "/docs/standards-primitives/fungible-tokens",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "standards-primitives/random-numbers",
+              "path": "/docs/standards-primitives/random-numbers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/faq",
+              "path": "/docs/testnet/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/for-developers/dapp-ideas",
+              "path": "/docs/testnet/for-developers/dapp-ideas",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/for-users/participate",
+              "path": "/docs/testnet/for-users/participate",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "testnet/for-validators/running-a-node",
+              "path": "/docs/testnet/for-validators/running-a-node",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/compatible-tools",
+              "path": "/docs/tools-infrastructure/compatible-tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/cross-chain-messaging",
+              "path": "/docs/tools-infrastructure/cross-chain-messaging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/gateway-widget",
+              "path": "/docs/tools-infrastructure/gateway-widget",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/hosted-gateway",
+              "path": "/docs/tools-infrastructure/hosted-gateway",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/obscuro-faucet",
+              "path": "/docs/tools-infrastructure/obscuro-faucet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/obscuroscan",
+              "path": "/docs/tools-infrastructure/obscuroscan",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tools-infrastructure/standard-bridge",
+              "path": "/docs/tools-infrastructure/standard-bridge",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting/faq",
+              "path": "/docs/troubleshooting/faq",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "troubleshooting/how-to-submit-a-bug-reports",
+              "path": "/docs/troubleshooting/how-to-submit-a-bug-reports",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorials-examples/guessing-game",
+              "path": "/docs/tutorials-examples/guessing-game",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/introduction",
+              "path": "/docs/category/introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-users",
+              "path": "/docs/category/for-users",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-developers",
+              "path": "/docs/category/for-developers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-validators",
+              "path": "/docs/category/for-validators",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/architecture",
+              "path": "/docs/category/architecture",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/standards--primitives",
+              "path": "/docs/category/standards--primitives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tools--infrastructure",
+              "path": "/docs/category/tools--infrastructure",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorials--examples",
+              "path": "/docs/category/tutorials--examples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/api-references",
+              "path": "/docs/category/api-references",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/troubleshooting",
+              "path": "/docs/category/troubleshooting",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/testnet",
+              "path": "/docs/category/testnet",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-users-1",
+              "path": "/docs/category/for-users-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-developers-1",
+              "path": "/docs/category/for-developers-1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/for-validators-1",
+              "path": "/docs/category/for-validators-1",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/introduction",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

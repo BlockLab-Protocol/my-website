@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/standard-bridge",
+  "title": "Standard Bridge",
+  "description": "The standard Ten bridge is a trustless and decentralized asset bridge leveraging a wrapped token mint and burn pattern. It's built on the cross-chain messaging protocol and operates entirely as a smart contract, eliminating the need for separate runnables or nodes.",
+  "source": "@site/docs/tools-infrastructure/standard-bridge.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/standard-bridge",
+  "permalink": "/docs/tools-infrastructure/standard-bridge",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/standard-bridge.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Gateway Widget",
+    "permalink": "/docs/tools-infrastructure/gateway-widget"
+  },
+  "next": {
+    "title": "Cross Chain Messaging",
+    "permalink": "/docs/tools-infrastructure/cross-chain-messaging"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "For Users",
+  "slug": "/category/for-users-1",
+  "permalink": "/docs/category/for-users-1",
+  "navigation": {
+    "previous": {
+      "title": "Testnet",
+      "permalink": "/docs/category/testnet"
+    },
+    "next": {
+      "title": "Getting started with testnet for users",
+      "permalink": "/docs/testnet/for-users/participate"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-users/setup-you-wallet",
+  "title": "Set up your wallet",
+  "description": "Ten is fully compatible with Ethereum and seamlessly integrates with MetaMask. If you're unfamiliar with MetaMask or wallets, start here.",
+  "source": "@site/docs/getting-started/for-users/setup-you-wallet.md",
+  "sourceDirName": "getting-started/for-users",
+  "slug": "/getting-started/for-users/setup-you-wallet",
+  "permalink": "/docs/getting-started/for-users/setup-you-wallet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-users/setup-you-wallet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Users",
+    "permalink": "/docs/category/for-users"
+  },
+  "next": {
+    "title": "Get Tokens",
+    "permalink": "/docs/getting-started/for-users/get-tokens"
+  }
+}

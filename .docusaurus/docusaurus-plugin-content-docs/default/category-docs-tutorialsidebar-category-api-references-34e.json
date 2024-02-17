@@ -1,0 +1,15 @@
+{
+  "title": "API References",
+  "slug": "/category/api-references",
+  "permalink": "/docs/category/api-references",
+  "navigation": {
+    "previous": {
+      "title": "Guessing Game",
+      "permalink": "/docs/tutorials-examples/guessing-game"
+    },
+    "next": {
+      "title": "JSON-RPC API",
+      "permalink": "/docs/api-reference/json-rpc-apis"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/sensitive-apis",
+  "title": "Sensitive APIs",
+  "description": "Ten supports a subset of Ethereum's JSON-RPC API.",
+  "source": "@site/docs/api-reference/sensitive-apis.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/sensitive-apis",
+  "permalink": "/docs/api-reference/sensitive-apis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/api-reference/sensitive-apis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Debug JSON-RPC API",
+    "permalink": "/docs/api-reference/debug-apis"
+  },
+  "next": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/category/troubleshooting"
+  }
+}

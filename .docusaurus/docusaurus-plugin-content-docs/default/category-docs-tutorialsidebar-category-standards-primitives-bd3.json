@@ -1,0 +1,15 @@
+{
+  "title": "Standards & Primitives",
+  "slug": "/category/standards--primitives",
+  "permalink": "/docs/category/standards--primitives",
+  "navigation": {
+    "previous": {
+      "title": "Governance",
+      "permalink": "/docs/architecture/governance"
+    },
+    "next": {
+      "title": "Fungible Tokens",
+      "permalink": "/docs/standards-primitives/fungible-tokens"
+    }
+  }
+}

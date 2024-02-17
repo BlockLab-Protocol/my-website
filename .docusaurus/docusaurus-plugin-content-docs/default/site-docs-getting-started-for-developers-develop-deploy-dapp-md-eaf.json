@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-developers/develop-deploy-dapp",
+  "title": "Develop & Deploy dApp",
+  "description": "1. Develop Smart Contracts",
+  "source": "@site/docs/getting-started/for-developers/develop-deploy-dapp.md",
+  "sourceDirName": "getting-started/for-developers",
+  "slug": "/getting-started/for-developers/develop-deploy-dapp",
+  "permalink": "/docs/getting-started/for-developers/develop-deploy-dapp",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-developers/develop-deploy-dapp.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set Up Dev Environment",
+    "permalink": "/docs/getting-started/for-developers/setup-dev-env"
+  },
+  "next": {
+    "title": "For Validators",
+    "permalink": "/docs/category/for-validators"
+  }
+}

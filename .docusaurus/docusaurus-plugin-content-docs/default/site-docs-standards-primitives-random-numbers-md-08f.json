@@ -1,0 +1,27 @@
+{
+  "id": "standards-primitives/random-numbers",
+  "title": "Random Numbers",
+  "description": "Using Randomness on Ten",
+  "source": "@site/docs/standards-primitives/random-numbers.md",
+  "sourceDirName": "standards-primitives",
+  "slug": "/standards-primitives/random-numbers",
+  "permalink": "/docs/standards-primitives/random-numbers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/standards-primitives/random-numbers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Fungible Tokens",
+    "permalink": "/docs/standards-primitives/fungible-tokens"
+  },
+  "next": {
+    "title": "Tools & Infrastructure",
+    "permalink": "/docs/category/tools--infrastructure"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "architecture/consensus",
+  "title": "Consensus Mechanism",
+  "description": "Ten combines Ethereum's L1 security, rollup efficiency, Secure Enclave privacy, and the POBI mechanism for a unique consensus approach.",
+  "source": "@site/docs/architecture/consensus.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/consensus",
+  "permalink": "/docs/architecture/consensus",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/architecture/consensus.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "System Components",
+    "permalink": "/docs/architecture/system-components"
+  },
+  "next": {
+    "title": "Interaction with Ethereum",
+    "permalink": "/docs/architecture/interaction-with-ethereum"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/how-to-submit-a-bug-reports",
+  "title": "How to submit a bug reports",
+  "description": "If you have encountered any bugs in Ten, we invite you to tell us about it, thereby making a contribution to help us evolve!",
+  "source": "@site/docs/troubleshooting/how-to-submit-a-bug-reports.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/how-to-submit-a-bug-reports",
+  "permalink": "/docs/troubleshooting/how-to-submit-a-bug-reports",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/troubleshooting/how-to-submit-a-bug-reports.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FAQs",
+    "permalink": "/docs/troubleshooting/faq"
+  },
+  "next": {
+    "title": "Testnet",
+    "permalink": "/docs/category/testnet"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Troubleshooting",
+  "slug": "/category/troubleshooting",
+  "permalink": "/docs/category/troubleshooting",
+  "navigation": {
+    "previous": {
+      "title": "Sensitive APIs",
+      "permalink": "/docs/api-reference/sensitive-apis"
+    },
+    "next": {
+      "title": "FAQs",
+      "permalink": "/docs/troubleshooting/faq"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/hosted-gateway",
+  "title": "Hosted Gateway",
+  "description": "The Ten Gateway is a critical application that facilitates communication between a Ten node and various tools that require a connection to it, such as MetaMask. Due to the encryption of data within a Ten node, direct communication is not feasible.",
+  "source": "@site/docs/tools-infrastructure/hosted-gateway.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/hosted-gateway",
+  "permalink": "/docs/tools-infrastructure/hosted-gateway",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/hosted-gateway.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ten Faucet",
+    "permalink": "/docs/tools-infrastructure/obscuro-faucet"
+  },
+  "next": {
+    "title": "Gateway Widget",
+    "permalink": "/docs/tools-infrastructure/gateway-widget"
+  }
+}

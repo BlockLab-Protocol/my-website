@@ -1,0 +1,412 @@
+{
+  "/__docusaurus/debug-9c8": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/__docusaurus/debug/config-f66": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/__docusaurus/debug/content-96a": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-adf": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/__docusaurus/debug/metadata-eef": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/__docusaurus/debug/registry-c34": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/__docusaurus/debug/routes-86c": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debuga-18-aa6"
+    }
+  },
+  "/blog-5eb": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-3cf": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-54a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-0a9": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-e5d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-05a": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-bc9": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+  },
+  "/blog/tags/facebook-1ea": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+  },
+  "/blog/tags/hello-aa2": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+  },
+  "/blog/tags/hola-6e5": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+  },
+  "/blog/welcome-86d": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blog-6-c-4-2b2"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-d3a": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-77-a-739"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/ReleaseNotes-e2e": {
+    "__comp": "__comp---site-src-pages-release-notes-js-5-ea-4c9",
+    "__context": {
+      "plugin": "plugin---markdown-page-77-a-739"
+    },
+    "config": "config---release-notes-5-e-9-422"
+  },
+  "/docs-517": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docs-128-2c5"
+    }
+  },
+  "/docs-d65": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-c23": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/api-reference/debug-apis-37f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-debug-apis-85-e-e7b"
+  },
+  "/docs/api-reference/json-rpc-apis-20e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-json-rpc-apisc-15-73a"
+  },
+  "/docs/api-reference/sensitive-apis-175": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-api-reference-sensitive-apis-19-c-8ac"
+  },
+  "/docs/architecture/consensus-112": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-consensus-3-e-6-773"
+  },
+  "/docs/architecture/design-800": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-design-6-b-4-8c9"
+  },
+  "/docs/architecture/governance-37a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-governance-450-b02"
+  },
+  "/docs/architecture/interaction-with-ethereum-67e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-interaction-with-ethereum-402-ebe"
+  },
+  "/docs/architecture/system-components-9c2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-architecture-system-components-3-c-5-211"
+  },
+  "/docs/category/api-references-b97": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-api-references-460-0cb"
+  },
+  "/docs/category/architecture-1bb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-architecture-59-c-c52"
+  },
+  "/docs/category/for-developers-521": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-developersc-0-d-cd1"
+  },
+  "/docs/category/for-developers-1-1ee": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-developers-1222-14d"
+  },
+  "/docs/category/for-users-a94": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-users-75-b-708"
+  },
+  "/docs/category/for-users-1-710": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-users-106-e-bfe"
+  },
+  "/docs/category/for-validators-091": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-validators-38-b-5ed"
+  },
+  "/docs/category/for-validators-1-bd7": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-for-validators-1-db-9-010"
+  },
+  "/docs/category/getting-started-01f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-getting-started-315-9c6"
+  },
+  "/docs/category/introduction-d40": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-introduction-205-e9d"
+  },
+  "/docs/category/standards--primitives-48a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-standards-primitives-55-d-367"
+  },
+  "/docs/category/testnet-3dc": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-testnet-968-a5f"
+  },
+  "/docs/category/tools--infrastructure-469": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tools-infrastructurefe-4-49c"
+  },
+  "/docs/category/troubleshooting-819": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-troubleshooting-0-f-1-bbc"
+  },
+  "/docs/category/tutorials--examples-26f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorials-examplesbf-9-a8d"
+  },
+  "/docs/getting-started/for-developers/develop-deploy-dapp-5c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-developers-develop-deploy-dappeaf-90b"
+  },
+  "/docs/getting-started/for-developers/explore-contracts-in-ten-2d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-developers-explore-contracts-in-ten-1-b-1-94e"
+  },
+  "/docs/getting-started/for-developers/setup-dev-env-b92": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-developers-setup-dev-env-346-74e"
+  },
+  "/docs/getting-started/for-users/get-tokens-689": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-users-get-tokense-8-f-506"
+  },
+  "/docs/getting-started/for-users/setup-you-wallet-e72": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-users-setup-you-walletfee-42c"
+  },
+  "/docs/getting-started/for-validators/running-a-node-41f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-getting-started-for-validators-running-a-node-764-021"
+  },
+  "/docs/introduction/developer-quickstart-cab": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-developer-quickstart-915-a5d"
+  },
+  "/docs/introduction/features-4f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-features-927-bb1"
+  },
+  "/docs/introduction/overview-f12": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-overview-761-067"
+  },
+  "/docs/introduction/technology-589": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-technologya-5-f-61c"
+  },
+  "/docs/standards-primitives/fungible-tokens-978": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-primitives-fungible-tokens-023-36b"
+  },
+  "/docs/standards-primitives/random-numbers-1ac": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-standards-primitives-random-numbers-08-f-369"
+  },
+  "/docs/testnet/faq-5ce": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testnet-faq-563-229"
+  },
+  "/docs/testnet/for-developers/dapp-ideas-aff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testnet-for-developers-dapp-ideasf-98-6eb"
+  },
+  "/docs/testnet/for-users/participate-426": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testnet-for-users-participate-41-a-d7c"
+  },
+  "/docs/testnet/for-validators/running-a-node-f7b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-testnet-for-validators-running-a-node-820-038"
+  },
+  "/docs/tools-infrastructure/compatible-tools-6df": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-compatible-tools-66-f-f47"
+  },
+  "/docs/tools-infrastructure/cross-chain-messaging-650": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-cross-chain-messagingda-6-a41"
+  },
+  "/docs/tools-infrastructure/gateway-widget-4bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-gateway-widgetef-2-320"
+  },
+  "/docs/tools-infrastructure/hosted-gateway-c2b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-hosted-gatewayb-37-aaa"
+  },
+  "/docs/tools-infrastructure/obscuro-faucet-52f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-obscuro-faucet-6-db-105"
+  },
+  "/docs/tools-infrastructure/obscuroscan-709": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-obscuroscanf-5-c-218"
+  },
+  "/docs/tools-infrastructure/standard-bridge-416": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tools-infrastructure-standard-bridge-288-019"
+  },
+  "/docs/troubleshooting/faq-636": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-troubleshooting-faq-56-c-70d"
+  },
+  "/docs/troubleshooting/how-to-submit-a-bug-reports-07e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-troubleshooting-how-to-submit-a-bug-reports-22-b-099"
+  },
+  "/docs/tutorials-examples/guessing-game-f8d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-tutorials-examples-guessing-gamecc-3-ff5"
+  },
+  "/-12e": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-77-a-739"
+    },
+    "config": "config---release-notes-5-e-9-422"
+  }
+}

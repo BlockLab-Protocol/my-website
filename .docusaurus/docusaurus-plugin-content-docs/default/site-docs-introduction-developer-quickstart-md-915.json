@@ -1,0 +1,27 @@
+{
+  "id": "introduction/developer-quickstart",
+  "title": "Migrate your dApp to Ten",
+  "description": "Migrating to Ten is a straight-forward process that immediately unlocks private state.",
+  "source": "@site/docs/introduction/developer-quickstart.md",
+  "sourceDirName": "introduction",
+  "slug": "/introduction/developer-quickstart",
+  "permalink": "/docs/introduction/developer-quickstart",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/introduction/developer-quickstart.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technology",
+    "permalink": "/docs/introduction/technology"
+  },
+  "next": {
+    "title": "Getting started",
+    "permalink": "/docs/category/getting-started"
+  }
+}

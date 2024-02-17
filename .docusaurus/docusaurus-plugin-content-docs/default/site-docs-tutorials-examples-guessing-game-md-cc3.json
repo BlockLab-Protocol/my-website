@@ -1,0 +1,27 @@
+{
+  "id": "tutorials-examples/guessing-game",
+  "title": "Guessing Game",
+  "description": "Guessing Game",
+  "source": "@site/docs/tutorials-examples/guessing-game.md",
+  "sourceDirName": "tutorials-examples",
+  "slug": "/tutorials-examples/guessing-game",
+  "permalink": "/docs/tutorials-examples/guessing-game",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tutorials-examples/guessing-game.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorials & Examples",
+    "permalink": "/docs/category/tutorials--examples"
+  },
+  "next": {
+    "title": "API References",
+    "permalink": "/docs/category/api-references"
+  }
+}

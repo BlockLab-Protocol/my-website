@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/debug-apis",
+  "title": "Debug JSON-RPC API",
+  "description": "Ten supports a subset of Geth's DEBUG JSON-RPC API. This",
+  "source": "@site/docs/api-reference/debug-apis.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/debug-apis",
+  "permalink": "/docs/api-reference/debug-apis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/api-reference/debug-apis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON-RPC API",
+    "permalink": "/docs/api-reference/json-rpc-apis"
+  },
+  "next": {
+    "title": "Sensitive APIs",
+    "permalink": "/docs/api-reference/sensitive-apis"
+  }
+}

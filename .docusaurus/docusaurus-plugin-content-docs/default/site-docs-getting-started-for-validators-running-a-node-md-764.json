@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-validators/running-a-node",
+  "title": "Running a node",
+  "description": "Thank you for your interest in running a node on Ten!",
+  "source": "@site/docs/getting-started/for-validators/running-a-node.md",
+  "sourceDirName": "getting-started/for-validators",
+  "slug": "/getting-started/for-validators/running-a-node",
+  "permalink": "/docs/getting-started/for-validators/running-a-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-validators/running-a-node.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Validators",
+    "permalink": "/docs/category/for-validators"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/docs/category/architecture"
+  }
+}

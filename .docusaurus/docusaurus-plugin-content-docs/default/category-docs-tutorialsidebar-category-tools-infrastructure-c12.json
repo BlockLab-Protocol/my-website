@@ -1,0 +1,15 @@
+{
+  "title": "Tools & Infrastructure",
+  "slug": "/category/tools--infrastructure",
+  "permalink": "/docs/category/tools--infrastructure",
+  "navigation": {
+    "previous": {
+      "title": "Random Numbers",
+      "permalink": "/docs/standards-primitives/random-numbers"
+    },
+    "next": {
+      "title": "TenScan",
+      "permalink": "/docs/tools-infrastructure/obscuroscan"
+    }
+  }
+}

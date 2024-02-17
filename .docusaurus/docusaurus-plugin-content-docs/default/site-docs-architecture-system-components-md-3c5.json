@@ -1,0 +1,27 @@
+{
+  "id": "architecture/system-components",
+  "title": "System Components",
+  "description": "Cryptography",
+  "source": "@site/docs/architecture/system-components.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/system-components",
+  "permalink": "/docs/architecture/system-components",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/architecture/system-components.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Design",
+    "permalink": "/docs/architecture/design"
+  },
+  "next": {
+    "title": "Consensus Mechanism",
+    "permalink": "/docs/architecture/consensus"
+  }
+}

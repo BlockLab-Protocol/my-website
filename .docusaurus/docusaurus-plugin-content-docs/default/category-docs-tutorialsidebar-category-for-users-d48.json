@@ -1,0 +1,15 @@
+{
+  "title": "For Users",
+  "slug": "/category/for-users",
+  "permalink": "/docs/category/for-users",
+  "navigation": {
+    "previous": {
+      "title": "Getting started",
+      "permalink": "/docs/category/getting-started"
+    },
+    "next": {
+      "title": "Set up your wallet",
+      "permalink": "/docs/getting-started/for-users/setup-you-wallet"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "architecture/design",
+  "title": "Design",
+  "description": "Ten is architected as an L2 protocol, leveraging the rollup pattern to store transaction data on the L1 chain. While most rollup implementations aim for scalability, Ten's primary objective is confidentiality. The rollups encapsulate the entire encrypted transaction data.",
+  "source": "@site/docs/architecture/design.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/design",
+  "permalink": "/docs/architecture/design",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/architecture/design.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/docs/category/architecture"
+  },
+  "next": {
+    "title": "System Components",
+    "permalink": "/docs/architecture/system-components"
+  }
+}

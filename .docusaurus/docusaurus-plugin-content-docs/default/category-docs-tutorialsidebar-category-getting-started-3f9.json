@@ -1,0 +1,15 @@
+{
+  "title": "Getting started",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Migrate your dApp to Ten",
+      "permalink": "/docs/introduction/developer-quickstart"
+    },
+    "next": {
+      "title": "For Users",
+      "permalink": "/docs/category/for-users"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-users/get-tokens",
+  "title": "Get Tokens",
+  "description": "Use Ten Discord Faucet",
+  "source": "@site/docs/getting-started/for-users/get-tokens.md",
+  "sourceDirName": "getting-started/for-users",
+  "slug": "/getting-started/for-users/get-tokens",
+  "permalink": "/docs/getting-started/for-users/get-tokens",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-users/get-tokens.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Set up your wallet",
+    "permalink": "/docs/getting-started/for-users/setup-you-wallet"
+  },
+  "next": {
+    "title": "For Developers",
+    "permalink": "/docs/category/for-developers"
+  }
+}

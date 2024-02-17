@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/cross-chain-messaging",
+  "title": "Cross Chain Messaging",
+  "description": "Ten features a cross-chain messaging protocol, facilitating secure and decentralized communication across layers.",
+  "source": "@site/docs/tools-infrastructure/cross-chain-messaging.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/cross-chain-messaging",
+  "permalink": "/docs/tools-infrastructure/cross-chain-messaging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/cross-chain-messaging.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Standard Bridge",
+    "permalink": "/docs/tools-infrastructure/standard-bridge"
+  },
+  "next": {
+    "title": "Compatible Tools",
+    "permalink": "/docs/tools-infrastructure/compatible-tools"
+  }
+}

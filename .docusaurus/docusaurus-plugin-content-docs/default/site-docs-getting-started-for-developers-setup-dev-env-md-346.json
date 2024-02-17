@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-developers/setup-dev-env",
+  "title": "Set Up Dev Environment",
+  "description": "1. Wallet Setup & Configuration",
+  "source": "@site/docs/getting-started/for-developers/setup-dev-env.md",
+  "sourceDirName": "getting-started/for-developers",
+  "slug": "/getting-started/for-developers/setup-dev-env",
+  "permalink": "/docs/getting-started/for-developers/setup-dev-env",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-developers/setup-dev-env.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Explore Contracts in Ten",
+    "permalink": "/docs/getting-started/for-developers/explore-contracts-in-ten"
+  },
+  "next": {
+    "title": "Develop & Deploy dApp",
+    "permalink": "/docs/getting-started/for-developers/develop-deploy-dapp"
+  }
+}

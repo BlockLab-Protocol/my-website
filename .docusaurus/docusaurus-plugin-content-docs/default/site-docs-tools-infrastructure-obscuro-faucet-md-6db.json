@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/obscuro-faucet",
+  "title": "Ten Faucet",
+  "description": "Ten Discord Faucet",
+  "source": "@site/docs/tools-infrastructure/obscuro-faucet.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/obscuro-faucet",
+  "permalink": "/docs/tools-infrastructure/obscuro-faucet",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/obscuro-faucet.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TenScan",
+    "permalink": "/docs/tools-infrastructure/obscuroscan"
+  },
+  "next": {
+    "title": "Hosted Gateway",
+    "permalink": "/docs/tools-infrastructure/hosted-gateway"
+  }
+}

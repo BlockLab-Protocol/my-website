@@ -1,0 +1,27 @@
+{
+  "id": "troubleshooting/faq",
+  "title": "FAQs",
+  "description": "For Developers",
+  "source": "@site/docs/troubleshooting/faq.md",
+  "sourceDirName": "troubleshooting",
+  "slug": "/troubleshooting/faq",
+  "permalink": "/docs/troubleshooting/faq",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/troubleshooting/faq.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Troubleshooting",
+    "permalink": "/docs/category/troubleshooting"
+  },
+  "next": {
+    "title": "How to submit a bug reports",
+    "permalink": "/docs/troubleshooting/how-to-submit-a-bug-reports"
+  }
+}

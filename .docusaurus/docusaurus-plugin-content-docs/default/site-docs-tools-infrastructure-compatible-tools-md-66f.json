@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/compatible-tools",
+  "title": "Compatible Tools",
+  "description": "These are the list of compatible tools & libraries. We are constantly working to improve your developer experience & will support all of them soon.",
+  "source": "@site/docs/tools-infrastructure/compatible-tools.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/compatible-tools",
+  "permalink": "/docs/tools-infrastructure/compatible-tools",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/compatible-tools.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cross Chain Messaging",
+    "permalink": "/docs/tools-infrastructure/cross-chain-messaging"
+  },
+  "next": {
+    "title": "Tutorials & Examples",
+    "permalink": "/docs/category/tutorials--examples"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "getting-started/for-developers/explore-contracts-in-ten",
+  "title": "Explore Contracts in Ten",
+  "description": "Ten offers a distinct environment for smart contract development so you'll need to consider how to design your dApps slightly differently from how you would a transparent dApp. This guide explains these differences:",
+  "source": "@site/docs/getting-started/for-developers/explore-contracts-in-ten.md",
+  "sourceDirName": "getting-started/for-developers",
+  "slug": "/getting-started/for-developers/explore-contracts-in-ten",
+  "permalink": "/docs/getting-started/for-developers/explore-contracts-in-ten",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/getting-started/for-developers/explore-contracts-in-ten.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Developers",
+    "permalink": "/docs/category/for-developers"
+  },
+  "next": {
+    "title": "Set Up Dev Environment",
+    "permalink": "/docs/getting-started/for-developers/setup-dev-env"
+  }
+}

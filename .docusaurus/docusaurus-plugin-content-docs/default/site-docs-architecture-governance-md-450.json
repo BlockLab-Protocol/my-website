@@ -1,0 +1,27 @@
+{
+  "id": "architecture/governance",
+  "title": "Governance",
+  "description": "Ten's governance is explicit, transparent, and draws inspiration from the experiences of Bitcoin and Ethereum. In a decentralized system, control can be:",
+  "source": "@site/docs/architecture/governance.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/governance",
+  "permalink": "/docs/architecture/governance",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/architecture/governance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interaction with Ethereum",
+    "permalink": "/docs/architecture/interaction-with-ethereum"
+  },
+  "next": {
+    "title": "Standards & Primitives",
+    "permalink": "/docs/category/standards--primitives"
+  }
+}

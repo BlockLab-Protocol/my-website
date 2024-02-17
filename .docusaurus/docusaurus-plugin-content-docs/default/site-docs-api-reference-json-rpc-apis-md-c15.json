@@ -1,0 +1,27 @@
+{
+  "id": "api-reference/json-rpc-apis",
+  "title": "JSON-RPC API",
+  "description": "Ten offers compatibility with a subset of Ethereum's JSON-RPC API. This document outlines the supported JSON-RPC API methods.",
+  "source": "@site/docs/api-reference/json-rpc-apis.md",
+  "sourceDirName": "api-reference",
+  "slug": "/api-reference/json-rpc-apis",
+  "permalink": "/docs/api-reference/json-rpc-apis",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/api-reference/json-rpc-apis.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "API References",
+    "permalink": "/docs/category/api-references"
+  },
+  "next": {
+    "title": "Debug JSON-RPC API",
+    "permalink": "/docs/api-reference/debug-apis"
+  }
+}

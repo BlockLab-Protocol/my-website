@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/obscuroscan",
+  "title": "TenScan",
+  "description": "Ten Block Explorer",
+  "source": "@site/docs/tools-infrastructure/obscuroscan.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/obscuroscan",
+  "permalink": "/docs/tools-infrastructure/obscuroscan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/obscuroscan.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tools & Infrastructure",
+    "permalink": "/docs/category/tools--infrastructure"
+  },
+  "next": {
+    "title": "Ten Faucet",
+    "permalink": "/docs/tools-infrastructure/obscuro-faucet"
+  }
+}

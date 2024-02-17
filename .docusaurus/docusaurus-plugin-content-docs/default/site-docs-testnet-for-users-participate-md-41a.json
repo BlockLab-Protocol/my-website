@@ -1,0 +1,27 @@
+{
+  "id": "testnet/for-users/participate",
+  "title": "Getting started with testnet for users",
+  "description": "Galxe",
+  "source": "@site/docs/testnet/for-users/participate.md",
+  "sourceDirName": "testnet/for-users",
+  "slug": "/testnet/for-users/participate",
+  "permalink": "/docs/testnet/for-users/participate",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/testnet/for-users/participate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Users",
+    "permalink": "/docs/category/for-users-1"
+  },
+  "next": {
+    "title": "For Developers",
+    "permalink": "/docs/category/for-developers-1"
+  }
+}

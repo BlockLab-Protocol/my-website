@@ -1,0 +1,27 @@
+{
+  "id": "testnet/for-validators/running-a-node",
+  "title": "Running a node",
+  "description": "Thank you for your interest in running a node on the Ten testnet.",
+  "source": "@site/docs/testnet/for-validators/running-a-node.md",
+  "sourceDirName": "testnet/for-validators",
+  "slug": "/testnet/for-validators/running-a-node",
+  "permalink": "/docs/testnet/for-validators/running-a-node",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/testnet/for-validators/running-a-node.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Validators",
+    "permalink": "/docs/category/for-validators-1"
+  },
+  "next": {
+    "title": "Testnet FAQ",
+    "permalink": "/docs/testnet/faq"
+  }
+}

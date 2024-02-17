@@ -1,0 +1,27 @@
+{
+  "id": "tools-infrastructure/gateway-widget",
+  "title": "Gateway Widget",
+  "description": "NPM packages for the Ten Gateway Widget will be released soon along with the documentation for integrating.",
+  "source": "@site/docs/tools-infrastructure/gateway-widget.md",
+  "sourceDirName": "tools-infrastructure",
+  "slug": "/tools-infrastructure/gateway-widget",
+  "permalink": "/docs/tools-infrastructure/gateway-widget",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/tools-infrastructure/gateway-widget.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hosted Gateway",
+    "permalink": "/docs/tools-infrastructure/hosted-gateway"
+  },
+  "next": {
+    "title": "Standard Bridge",
+    "permalink": "/docs/tools-infrastructure/standard-bridge"
+  }
+}

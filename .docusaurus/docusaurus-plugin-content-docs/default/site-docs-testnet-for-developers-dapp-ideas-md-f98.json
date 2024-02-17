@@ -1,0 +1,27 @@
+{
+  "id": "testnet/for-developers/dapp-ideas",
+  "title": "DApp Ideas",
+  "description": "Below are some of the dApps we'd love to see built on Ten. Feel free to reach out on Discord if you'd like to discuss the ideas in more detail or request support.",
+  "source": "@site/docs/testnet/for-developers/dapp-ideas.md",
+  "sourceDirName": "testnet/for-developers",
+  "slug": "/testnet/for-developers/dapp-ideas",
+  "permalink": "/docs/testnet/for-developers/dapp-ideas",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/testnet/for-developers/dapp-ideas.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "For Developers",
+    "permalink": "/docs/category/for-developers-1"
+  },
+  "next": {
+    "title": "For Validators",
+    "permalink": "/docs/category/for-validators-1"
+  }
+}

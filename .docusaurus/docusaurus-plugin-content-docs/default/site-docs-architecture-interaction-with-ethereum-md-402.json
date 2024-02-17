@@ -1,0 +1,27 @@
+{
+  "id": "architecture/interaction-with-ethereum",
+  "title": "Interaction with Ethereum",
+  "description": "Ten serves as a confidential extension to Ethereum, enabling assets to move seamlessly between the two networks. While many sidechains and L2 solutions have developed bridges to address mismatches between different network models, Ten's approach is distinct, ensuring a decentralized and secure interaction.",
+  "source": "@site/docs/architecture/interaction-with-ethereum.md",
+  "sourceDirName": "architecture",
+  "slug": "/architecture/interaction-with-ethereum",
+  "permalink": "/docs/architecture/interaction-with-ethereum",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "/docs/architecture/interaction-with-ethereum.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Consensus Mechanism",
+    "permalink": "/docs/architecture/consensus"
+  },
+  "next": {
+    "title": "Governance",
+    "permalink": "/docs/architecture/governance"
+  }
+}
